@@ -8,4 +8,4 @@ When the app is opened for the first time, the user is prompted for personal inf
 Then, the user can input the food items they consume each day, lookup how many calories they contain through integration with the USDA database, and view statistics about their calorie intake and see whether or not they are meeting their goals.
 
 
-![Main Activity](/screenshots/MainActivity.png?raw=true)
+![Screenshots](/screenshots/Screenshots.png?raw=true)
